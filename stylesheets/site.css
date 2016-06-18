@@ -119,12 +119,12 @@ h3 {
     text-decoration: line-through; }
 
 /* line 65, site.css.scss */
-.pinterest {
+.freelancer {
   text-decoration: none;
   color: #cb2027; }
 
 /* line 70, site.css.scss */
-.gumroad {
+.gates {
   color: white;
   background: url("/images/header_bar.png");
   background-size: 50% 100%;
@@ -132,13 +132,13 @@ h3 {
   -webkit-text-fill-color: transparent; }
 
 /* line 78, site.css.scss */
-.usc {
+.ueab {
   color: #990000 !important;
   text-decoration: none;
   border-bottom: #fc0 12px solid; }
 
 /* line 84, site.css.scss */
-.dayta {
+.forex {
   color: white;
   background: url("/images/dayta.jpg");
   background-position: 0 -25px;
@@ -220,5 +220,5 @@ li {
     position: absolute; }
 
   /* line 176, site.css.scss */
-  .usc {
+  .ueab {
     border-bottom-width: 4px; } }
